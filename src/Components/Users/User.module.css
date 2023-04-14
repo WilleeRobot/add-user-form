@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  justify-content: left;
+  align-items: center;
+  border: 1px solid #9a9898;
+  border-radius: 6px;
+  color: #1f1e1e;
+  background-color: #fff;
+}
+
+.name {
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.age {
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  opacity: 60%;
+  letter-spacing: 1px;
+}

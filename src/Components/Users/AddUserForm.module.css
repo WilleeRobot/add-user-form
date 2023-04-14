@@ -1,0 +1,31 @@
+.formCardStyle {
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.form-controls {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 6px;
+  margin-bottom: 8px;
+  font-size: 1.31rem;
+  font-weight: 500;
+}
+
+.form-controls input {
+  padding: 8px;
+  font-size: 1.31rem;
+  margin-bottom: 10px;
+}

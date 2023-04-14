@@ -1,0 +1,12 @@
+.container {
+  /* position: relative; */
+  color: #000;
+  background-color: #fff;
+  padding: 1.25rem 1.25rem;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+  border-radius: 6px;
+}
